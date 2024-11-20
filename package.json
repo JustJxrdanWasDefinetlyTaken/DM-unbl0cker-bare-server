@@ -36,6 +36,7 @@
 		"bin.js"
 	],
 	"scripts": {
+		"install": "npm install";
 		"build": "npm install --global @tomphttp/bare-server-node",
 		"start": "npx bare-server-node"
 	},
